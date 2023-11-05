@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-tailwindcss-portfolio"]=this["webpackJsonpreact-tailwindcss-portfolio"]||[]).push([[6],{48:function(t,s,c){"use strict";c.r(s);var i=c(27),a=c(21),e=c(2);s.default=()=>Object(e.jsx)(a.b,{children:Object(e.jsx)("div",{className:"container mx-auto",children:Object(e.jsx)(i.a,{})})})}}]);
-//# sourceMappingURL=6.1efeb1f2.chunk.js.map
